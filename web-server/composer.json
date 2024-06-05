@@ -1,0 +1,17 @@
+{
+    "name": "vladimir/web-server",
+    "autoload": {
+        "psr-4": {
+            "app": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikitin Vladimir",
+            "email": "vreservoirv@rambler.ru"
+        }
+    ],
+    "require": {
+        "ext-json": "*"
+    }
+}

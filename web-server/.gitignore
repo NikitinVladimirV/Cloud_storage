@@ -1,0 +1,5 @@
+/.idea
+/.vscode
+/web-server/files
+composer.phar
+vendor
